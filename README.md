@@ -5,7 +5,7 @@ The Ceylon Electricity Board (CEB) wanted you to develop a software to calculate
 Details set as follows:
 
 Inputs : Customer Number,Customer Name , Tariff Code and Number of Units.
-Tariff Code : D - Domestic Custoner / C - Commercial Customer.
+Tariff Code : D - Domestic Customer / C - Commercial Customer.
 
 
 Charges for the calculation :
