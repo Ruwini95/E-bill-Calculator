@@ -1,0 +1,10 @@
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\bin\Debug\Bill_calculator.exe.config
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\bin\Debug\Bill_calculator.exe
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\bin\Debug\Bill_calculator.pdb
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.csprojAssemblyReference.cache
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.Form1.resources
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.Properties.Resources.resources
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.csproj.GenerateResource.cache
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.exe
+C:\Users\Ruwini\Desktop\Bill_calculator\Bill_calculator\obj\Debug\Bill_calculator.pdb
