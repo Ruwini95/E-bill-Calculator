@@ -13,3 +13,5 @@ Charges for the calculation :
 
 * For D users --> Rs.5/= per unit for 100 units   |  Rs.10/= per unit for excess of 100 units
 * For C users --> Rs.10/= per unit for 200 units   |  Rs.15/= per unit for excess of 200 units
+
+[![ss1.png](https://i.postimg.cc/8PcCn0Xg/ss1.png)](https://postimg.cc/dLMvh4K5)
