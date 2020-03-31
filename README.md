@@ -1,6 +1,5 @@
-# E-bill-Calculator
+# E-bill-Calculator - Case Study :
 
-Case Study :
 
 The Ceylon Electricity Board (CEB) wanted you to develop a software to calculate the customer's monthly electricity bill.
 Details set as follows:
